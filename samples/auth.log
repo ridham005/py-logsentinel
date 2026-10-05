@@ -1,0 +1,9 @@
+Oct  5 20:10:01 server sshd[1021]: Accepted password for ridham from 192.168.1.50 port 54321 ssh2
+Oct  5 20:11:15 server sshd[1025]: Failed password for invalid user admin from 203.0.113.45 port 41234 ssh2
+Oct  5 20:11:18 server sshd[1026]: Failed password for invalid user root from 203.0.113.45 port 41236 ssh2
+Oct  5 20:11:21 server sshd[1027]: Failed password for invalid user test from 203.0.113.45 port 41238 ssh2
+Oct  5 20:11:25 server sshd[1028]: Failed password for invalid user ubuntu from 203.0.113.45 port 41240 ssh2
+Oct  5 20:11:30 server sshd[1029]: Failed password for invalid user guest from 203.0.113.45 port 41242 ssh2
+Oct  5 20:12:02 server sshd[1035]: Failed password for invalid user admin from 198.51.100.12 port 38901 ssh2
+Oct  5 20:12:05 server sshd[1036]: Failed password for invalid user admin from 198.51.100.12 port 38902 ssh2
+Oct  5 20:15:40 server sshd[1040]: Accepted publickey for ridham from 192.168.1.50 port 54350 ssh2
